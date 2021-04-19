@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Student_Registry_AutomatedTests_POM.Tests.ViewStudentsPageTests">
+    <Position X="5" Y="3" Width="2.5" />
+    <InheritanceLine Type="Student_Registry_AutomatedTests_POM.Tests.BaseTest" FixedFromPoint="true">
+      <Path>
+        <Point X="3" Y="3.625" />
+        <Point X="5" Y="3.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewStudentsPageTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Registry_AutomatedTests_POM.Tests.HomePageTests">
+    <Position X="5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HomePageTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Registry_AutomatedTests_POM.Tests.AddStudentPageTests">
+    <Position X="5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAA=</HashCode>
+      <FileName>AddStudentPageTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Registry_AutomatedTests_POM.Tests.BaseTest">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tests\BaseTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
